@@ -2,8 +2,8 @@
 
 # To build project
 
-`docker build -t <dockerId>/simple_docker_example .`
+`docker build -t <dockerId>/simple-docker-example .`
 
 # To run project
 
-`docker run -p 8080:8080 <dockerId>/simple_docker_example`
+`docker run -p 8080:8080 <dockerId>/simple-docker-example`
