@@ -1,4 +1,4 @@
-# Simple web app (node server) wrapper under docker
+# Simple web app (node server) wrapped under docker
 
 # To build project
 
